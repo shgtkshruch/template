@@ -1,0 +1,6 @@
+[submodule "grunt"]
+	path = grunt
+	url = git://github.com/shgtkshruch/grunt
+[submodule "gulp"]
+	path = gulp
+	url = git://github.com/shgtkshruch/gulp

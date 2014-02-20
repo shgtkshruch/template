@@ -1,0 +1,38 @@
+{
+  "name": "template",
+  "version": "0.0.0",
+  "description": "my template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shgtkshruch",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-slim": "~0.1.0",
+    "grunt-csscomb": "~2.0.1",
+    "grunt-prettify": "~0.3.4",
+    "grunt-bower-task": "~0.3.4",
+    "grunt-autoprefixer": "~0.7.0",
+    "grunt-contrib-coffee": "~0.10.1",
+    "load-grunt-config": "~0.7.1",
+    "gulp": "~3.5.0",
+    "gulp-jade": "~0.4.1",
+    "gulp-sass": "~0.6.0",
+    "gulp-clean": "~0.2.4",
+    "gulp-filter": "~0.2.1",
+    "gulp-concat": "~2.1.7",
+    "gulp-stylus": "0.0.11",
+    "gulp-coffee": "~1.4.1",
+    "gulp-notify": "~0.4.0",
+    "gulp-changed": "~0.2.0",
+    "gulp-connect": "~0.3.1",
+    "gulp-imagemin": "~0.1.5",
+    "gulp-load-plugins": "~0.3.0",
+    "open": "0.0.4",
+    "js-yaml": "~3.0.1",
+    "browser-sync": "~0.5.6",
+    "coffee-script": "~1.7.1"
+  }
+}
